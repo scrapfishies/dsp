@@ -2,7 +2,7 @@
 
 ## Setup & Foundation Tools :wrench:
 #### Lessons: 
-- [ ] [Mastering Markdown](https://github.com/scrapfish/dsp/tree/master/lessons/markdown)
+- [ ] [Mastering Markdown](https://github.com/scrapfishies/dsp/tree/master/lessons/markdown)
 - [ ] [Fork GitHub Repo](https://github.com/thisismetis/dsp/tree/master/lessons/git_fork)
 - [ ] [Python Install](https://github.com/thisismetis/dsp/tree/master/lessons/install)
 - [ ] [Jupyter Notebook](https://github.com/thisismetis/dsp/tree/master/lessons/install_jupyter)
