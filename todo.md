@@ -7,7 +7,7 @@
 - [x] [Python Install](https://github.com/scrapfishies/dsp/tree/master/lessons/install)
 - [x] [Jupyter Notebook](https://github.com/scrapfishies/dsp/tree/master/lessons/install_jupyter)
 - [x] [Choose & Learn Your Editors](https://github.com/scrapfishies/dsp/tree/master/lessons/editors)
-- [ ] [Learn Command Line](https://github.com/scrapfishies/dsp/tree/master/lessons/command_line)
+- [x] [Learn Command Line](https://github.com/scrapfishies/dsp/tree/master/lessons/command_line)
 - [ ] [Getting Started with Git](https://github.com/scrapfishies/dsp/tree/master/lessons/git_intro)
 - [ ] [Intro to Git Branches](https://github.com/scrapfishies/dsp/tree/master/lessons/git_branches)
 
