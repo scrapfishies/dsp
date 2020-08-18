@@ -35,6 +35,10 @@
 ## Statistics :bar_chart:
 #### Lessons: 
 - [ ] [Think Stats](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
+
+#### Assessements: 
+- [ ] [Statistics Exercises(https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
+
 ___
 # Other To-Do's Before Bootcamp :clipboard:
 ## Treehouse Courses :evergreen_tree::house:
