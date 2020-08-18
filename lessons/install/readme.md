@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-Yes, Python 3 because its the curent version.
+*Yes, Python 3 because its the curent version.*
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-Python 3.8.3
+*Python 3.8.3*
 
  
 
