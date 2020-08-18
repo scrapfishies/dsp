@@ -2,23 +2,23 @@
 
 ## Setup & Foundation Tools :wrench:
 #### Lessons: 
-- [ ] [Mastering Markdown](https://github.com/scrapfishies/dsp/tree/master/lessons/markdown)
-- [ ] [Fork GitHub Repo](https://github.com/thisismetis/dsp/tree/master/lessons/git_fork)
-- [ ] [Python Install](https://github.com/thisismetis/dsp/tree/master/lessons/install)
-- [ ] [Jupyter Notebook](https://github.com/thisismetis/dsp/tree/master/lessons/install_jupyter)
-- [ ] [Choose & Learn Your Editors](https://github.com/thisismetis/dsp/tree/master/lessons/editors)
-- [ ] [Learn Command Line](https://github.com/thisismetis/dsp/tree/master/lessons/command_line)
-- [ ] [Getting Started with Git](https://github.com/thisismetis/dsp/tree/master/lessons/git_intro)
-- [ ] [Intro to Git Branches](https://github.com/thisismetis/dsp/tree/master/lessons/git_branches)
+- [x] [Mastering Markdown](https://github.com/scrapfishies/dsp/tree/master/lessons/markdown)
+- [x] [Fork GitHub Repo](https://github.com/scrapfishies/dsp/tree/master/lessons/git_fork)
+- [x] [Python Install](https://github.com/scrapfishies/dsp/tree/master/lessons/install)
+- [ ] [Jupyter Notebook](https://github.com/scrapfishies/dsp/tree/master/lessons/install_jupyter)
+- [ ] [Choose & Learn Your Editors](https://github.com/scrapfishies/dsp/tree/master/lessons/editors)
+- [ ] [Learn Command Line](https://github.com/scrapfishies/dsp/tree/master/lessons/command_line)
+- [ ] [Getting Started with Git](https://github.com/scrapfishies/dsp/tree/master/lessons/git_intro)
+- [ ] [Intro to Git Branches](https://github.com/scrapfishies/dsp/tree/master/lessons/git_branches)
 
 #### Assessements: 
 - [ ] [Foundational Tools Assessment](https://www.hackerrank.com/test/edshcfc0a5q/26922512d1b333a324dc113580d62855)
 
 ## Python :snake:
 #### Lessons: 
-- [ ] [Learn Python](https://github.com/thisismetis/dsp/tree/master/lessons/python_intro)
-- [ ] [Advanced Python](https://github.com/thisismetis/dsp/tree/master/lessons/python_intro)
-- [ ] [Python Pandas](https://github.com/thisismetis/dsp/tree/master/lessons/pandas_intro)
+- [ ] [Learn Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_intro)
+- [ ] [Advanced Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_intro)
+- [ ] [Python Pandas](https://github.com/scrapfishies/dsp/tree/master/lessons/pandas_intro)
 
 #### Assessements: 
 - [ ] [Python Basics Assessement](https://www.hackerrank.com/test/7q9m8pejfdm/72c10271e7fd1daa9601bdbbf48768e0)
@@ -27,14 +27,14 @@
 
 ## Linear Algebra :chart_with_upwards_trend:
 #### Lessons: 
-- [ ] [Linear Algebra](https://github.com/thisismetis/dsp/tree/master/lessons/linear_algebra)
+- [ ] [Linear Algebra](https://github.com/scrapfishies/dsp/tree/master/lessons/linear_algebra)
 
 #### Assessements: 
 - [ ] [Linear Algebra Assessement](https://www.hackerrank.com/test/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
 
 ## Statistics :bar_chart:
 #### Lessons: 
-- [ ] [Think Stats](https://github.com/thisismetis/dsp/tree/master/lessons/statistics)
+- [ ] [Think Stats](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
 ___
 # Other To-Do's Before Bootcamp :clipboard:
 ## Treehouse Courses :evergreen_tree::house:
