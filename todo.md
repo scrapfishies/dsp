@@ -5,7 +5,7 @@
 - [x] [Mastering Markdown](https://github.com/scrapfishies/dsp/tree/master/lessons/markdown)
 - [x] [Fork GitHub Repo](https://github.com/scrapfishies/dsp/tree/master/lessons/git_fork)
 - [x] [Python Install](https://github.com/scrapfishies/dsp/tree/master/lessons/install)
-- [ ] [Jupyter Notebook](https://github.com/scrapfishies/dsp/tree/master/lessons/install_jupyter)
+- [x] [Jupyter Notebook](https://github.com/scrapfishies/dsp/tree/master/lessons/install_jupyter)
 - [x] [Choose & Learn Your Editors](https://github.com/scrapfishies/dsp/tree/master/lessons/editors)
 - [ ] [Learn Command Line](https://github.com/scrapfishies/dsp/tree/master/lessons/command_line)
 - [ ] [Getting Started with Git](https://github.com/scrapfishies/dsp/tree/master/lessons/git_intro)
