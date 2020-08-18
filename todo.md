@@ -8,8 +8,8 @@
 - [x] [Jupyter Notebook](https://github.com/scrapfishies/dsp/tree/master/lessons/install_jupyter)
 - [x] [Choose & Learn Your Editors](https://github.com/scrapfishies/dsp/tree/master/lessons/editors)
 - [x] [Learn Command Line](https://github.com/scrapfishies/dsp/tree/master/lessons/command_line)
-- [ ] [Getting Started with Git](https://github.com/scrapfishies/dsp/tree/master/lessons/git_intro)
-- [ ] [Intro to Git Branches](https://github.com/scrapfishies/dsp/tree/master/lessons/git_branches)
+- [x] [Getting Started with Git](https://github.com/scrapfishies/dsp/tree/master/lessons/git_intro)
+- [x] [Intro to Git Branches](https://github.com/scrapfishies/dsp/tree/master/lessons/git_branches)
 
 #### Assessements: 
 - [ ] [Foundational Tools Assessment](https://www.hackerrank.com/test/edshcfc0a5q/26922512d1b333a324dc113580d62855)
