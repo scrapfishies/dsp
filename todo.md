@@ -12,7 +12,7 @@
 - [x] [Intro to Git Branches](https://github.com/scrapfishies/dsp/tree/master/lessons/git_branches)
 
 #### Assessements: 
-- [x] [Foundational Tools Assessment](https://www.hackerrank.com/test/edshcfc0a5q/26922512d1b333a324dc113580d62855)
+- [ ] [Foundational Tools Assessment (8/24)](https://www.hackerrank.com/test/edshcfc0a5q/26922512d1b333a324dc113580d62855)
 
 ## Python :snake:
 #### Lessons: 
@@ -21,23 +21,23 @@
 - [ ] [Python Pandas](https://github.com/scrapfishies/dsp/tree/master/lessons/pandas_intro)
 
 #### Assessements: 
-- [ ] [Python Basics Assessement](https://www.hackerrank.com/test/7q9m8pejfdm/72c10271e7fd1daa9601bdbbf48768e0)
-- [ ] [Advanced Python Assessement](https://www.hackerrank.com/test/e7pon3itk8g/779c68b5d4cd2876295a2ab4f8a69eaf)
-- [ ] [Pandas Assessement](https://www.hackerrank.com/test/beg202nchad/a3ae8be11d8345e83400e68ea9fa10e5)
+- [ ] [Python Basics Assessement (8/31)](https://www.hackerrank.com/test/7q9m8pejfdm/72c10271e7fd1daa9601bdbbf48768e0)
+- [ ] [Advanced Python Assessement (9/6)](https://www.hackerrank.com/test/e7pon3itk8g/779c68b5d4cd2876295a2ab4f8a69eaf)
+- [ ] [Pandas Assessement (9/13)](https://www.hackerrank.com/test/beg202nchad/a3ae8be11d8345e83400e68ea9fa10e5)
 
 ## Linear Algebra :chart_with_upwards_trend:
 #### Lessons: 
 - [ ] [Linear Algebra](https://github.com/scrapfishies/dsp/tree/master/lessons/linear_algebra)
 
 #### Assessements: 
-- [ ] [Linear Algebra Assessement](https://www.hackerrank.com/test/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
+- [ ] [Linear Algebra Assessement (9/13)](https://www.hackerrank.com/test/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
 
 ## Statistics :bar_chart:
 #### Lessons: 
 - [ ] [Think Stats](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
 
 #### Assessements: 
-- [ ] [Statistics Exercises](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
+- [ ] [Statistics Exercises (9/21)](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
 
 ___
 # Other To-Do's Before Bootcamp :clipboard:
