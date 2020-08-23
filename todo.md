@@ -44,8 +44,8 @@ ___
 ## Treehouse Courses :evergreen_tree::house:
 - [x] [Beginning Python](https://teamtreehouse.com/tracks/beginning-python)
 - [x] [Intermediate Python](https://teamtreehouse.com/tracks/intermediate-python)
-- [ ] [Beginning SQL](https://teamtreehouse.com/tracks/beginning-sql)
+- [x] [Beginning SQL](https://teamtreehouse.com/tracks/beginning-sql)
 - [x] [Intro to Git](https://teamtreehouse.com/library/introduction-to-git)
 - [x] [GitHub Basics](https://teamtreehouse.com/library/github-basics)
-- [ ] [Algorithms & Data Structures](https://teamtreehouse.com/tracks/algorithms-and-data-structures)
+- [x] [Algorithms & Data Structures](https://teamtreehouse.com/tracks/algorithms-and-data-structures)
 - [ ] [Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
