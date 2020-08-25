@@ -17,7 +17,7 @@
 ## Python :snake:
 #### Lessons: 
 - [x] [Learn Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_intro)
-- [ ] [Advanced Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_intro)
+- [ ] [Advanced Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_advanced)
 - [ ] [Python Pandas](https://github.com/scrapfishies/dsp/tree/master/lessons/pandas_intro)
 
 #### Assessements: 
