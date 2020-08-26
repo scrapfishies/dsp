@@ -12,11 +12,11 @@ Big-O notation is used to classify the worst-case "speed" of an algorithm by loo
  
 ## Scrapfish Notes 
 
-**Big-O** is a theoretical definition of the ***time complexity*** of an algorithm as a function of the size. 'O' refers to 'order of magnitude of complexity'. *Time complexity* is the computational complexity that describes the amount of time it takes to run an algorithm, estimated by counting the number of elementary operations performed by the algorithm (supposing that each operation takes a fixed amount of time to perform). 
-* it's relative - we need to compare one or more algorithms to put it in context
-* it gives us an objective view on the *performance* of an algorithm: here is why x-algorithm is better than y-algorithm. 
-* sometimes referred to as the ***upper bounds***, where the algorithm is performing under the *worst case scenario*. 
-* Notation: `O(n)`
+**Big-O** is a theoretical definition of the ***time complexity*** of an algorithm as a function of the size. The 'O' refers to 'order of magnitude of complexity'. *Time complexity* is the computational complexity that describes the amount of time it takes to run an algorithm, estimated by counting the number of elementary operations performed by the algorithm (supposing that each operation takes a fixed amount of time to perform). 
+* Big-O is ***relative*** - we need to compare one or more algorithms to put it in context
+* Big-O gives us an ***objective view*** on the *performance* of an algorithm: here is why x-algorithm is better than y-algorithm. 
+* Big-O is sometimes referred to as the ***upper bounds***, where the algorithm is performing under the *worst case scenario*. 
+* Notation example: `O(n)`
 
 ## Types in order of efficiency (best to worst)
 
@@ -29,7 +29,7 @@ Big-O notation is used to classify the worst-case "speed" of an algorithm by loo
 
 ### Excellent
 
-**Contant Time**: `O(1)`: The runtime of the algorithm is *independent* of the size of the data set. If n is 1 or 1 million, it takes the same amount of time to execute the algorithm. 
+**Constant Time**: `O(1)`: The runtime of the algorithm is *independent* of the size of the data set. If n is 1 or 1 million, it takes the same amount of time to execute the algorithm. 
 
 ![](https://miro.medium.com/max/626/1*AJ09oN6ANIz_5XUPv6cmgg.png)
 
@@ -42,10 +42,11 @@ def get_first(data):
 ```
 It doesn't matter how big the input list is - it's only returning the first item, which will *always* have the same runtime.
 
+
 **Logarithmic Time**: `O(log n)`: The runtime of the algorithm increases *logarithmically* as the size of the data set increases. 
 * Logarithms are basicaly inverse exponents (`log2 of 8 = 3` --> `2^3 = 8`); and so if the input size *doubles*, the runtime increases by *one*.
 * Classic example: ***binary search*** algorithms
-* Somtimes referred to as *sublinear*
+* Sometimes referred to as *sublinear*
 
 ![](https://miro.medium.com/max/626/1*4MN1PhTNpluNK62Fj4OREg.png)
 
@@ -69,6 +70,7 @@ def binary_search(data, target):
   return None      
 ```
 
+
 ### Verge of okay
 
 **Linear Time**: `O(n)`: The runtime of the algorithm is *directly proportional* to the size of the data set.
@@ -87,6 +89,7 @@ def linear_search(data, target):
   return None      
 ```
 
+
 ### Not so great
 
 **Quasilinear Time**: `O(n log n)`: Given a data set size of n, the algorithm executes `n` number of operations where each operations runs in logarithmic time (log n). 
@@ -95,9 +98,10 @@ def linear_search(data, target):
   
 ![](https://miro.medium.com/max/800/1*a7UnRSbux0RSgVqmFDN9_Q.png)
 
+
 ### Bad
 
-**Polynomial Times**: `O(n^k)`: An algorithm that, for a given value of n, it's worst case runtime is the form of n^k. 
+**Polynomial Time**: `O(n^k)`: An algorithm that, for a given value of n, it's worst case runtime is the form of n^k. 
 * Typically, ***nested `for` loops*** lead to polynomial time, where `k` is a loop (2 loops = `n^2`; 3 loops = `n^3`)
 * **Quadratic Time**: `O(n^2)`: The runtime of the algorithm increases by a factor of n-squared as the size of the data increases
   * Example: [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
@@ -106,19 +110,20 @@ def linear_search(data, target):
 
 ![](https://miro.medium.com/max/1000/1*kLelWVP6t2YjoVoyAyDgdQ.png)
 
+
 ### Horrible
 
 **Exponential Time**: `O(k^n)`: A runtime where the number of operations increases exponentially as the size of the data set increases. These are considered *inefficient*. 
-* Examples: Using ***Brute Force*** to solve a digit combination lock by guessing every single number.
+* Examples: Using ***brute force*** to solve a digit combination lock by guessing every single number.
   * `k` = the possible numbers in the combination lock: 0-9, so 10 choices
   * `n` = number of digits in the combination lock
   * for a 2 digit lock, there are `10^2` or 100 possibile combinations
   * for a 3 digit lock, there are `10^3` or 1,000 possible combinations
   * for a 4 digit lock, therea re `10^4` or 10,000 possible combinations
-* Another example is guessing passwords:
+* Similarly, using brute force to crack passwords:
   * `k` = 69 possible characters (letters, numbers, special characters)
   * `n` = number of allowed characters in a password
-  * A 20 charachter password has `69^20`, or 6e36 possible combinations (that's a 6 with *36 zeros* after it)
+  * A 20 charachter password has `69^20`, or 6e36 possible combinations (that's a 6 with *36 zeros* after it!)
 
 **Combinatorial / Factorial Time**: `O(n!)`: Runtimes where as the size of n increases, the number of operations increases by n!. 
 * Classic example: [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) - there are `n` towns, each of those towns is linked to 1 or more other towns by a road of a certain distance. The traveling salesman problem is to find the shortest tour that visits every town: 
@@ -126,6 +131,7 @@ def linear_search(data, target):
   * If you have 4 towns, it increases to 12 possibilities, `4!`
   * If you have 6 towns, it increases to 360, `6!`
   * by the time you get to 200 towns, there isn't enough time left in the universe to solve the problem with traditional computers. 
+
 
 ## More resources
 * [Big-O Time Complexity: What it is a dnw hy it matters for your code](https://levelup.gitconnected.com/big-o-time-complexity-what-it-is-and-why-it-matters-for-your-code-6c08dd97ad59)
