@@ -17,12 +17,12 @@
 ## Python :snake:
 #### Lessons: 
 - [x] [Learn Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_intro)
-- [ ] [Advanced Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_advanced)
+- [x] [Advanced Python](https://github.com/scrapfishies/dsp/tree/master/lessons/python_advanced)
 - [ ] [Python Pandas](https://github.com/scrapfishies/dsp/tree/master/lessons/pandas_intro)
 
 #### Assessements: 
 - [x] [Python Basics Assessement (8/31)](https://www.hackerrank.com/test/7q9m8pejfdm/72c10271e7fd1daa9601bdbbf48768e0)
-- [ ] [Advanced Python Assessement (9/6)](https://www.hackerrank.com/test/e7pon3itk8g/779c68b5d4cd2876295a2ab4f8a69eaf)
+- [x] [Advanced Python Assessement (9/6)](https://www.hackerrank.com/test/e7pon3itk8g/779c68b5d4cd2876295a2ab4f8a69eaf)
 - [ ] [Pandas Assessement (9/13)](https://www.hackerrank.com/test/beg202nchad/a3ae8be11d8345e83400e68ea9fa10e5)
 
 ## Linear Algebra :chart_with_upwards_trend:
