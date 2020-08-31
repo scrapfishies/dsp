@@ -27,10 +27,10 @@
 
 ## Linear Algebra :chart_with_upwards_trend:
 #### Lessons: 
-- [ ] [Linear Algebra](https://github.com/scrapfishies/dsp/tree/master/lessons/linear_algebra)
+- [x] [Linear Algebra](https://github.com/scrapfishies/dsp/tree/master/lessons/linear_algebra)
 
 #### Assessements: 
-- [ ] [Linear Algebra Assessement (9/13)](https://www.hackerrank.com/test/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
+- [x] [Linear Algebra Assessement (9/13)](https://www.hackerrank.com/test/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
 
 ## Statistics :bar_chart:
 #### Lessons: 
