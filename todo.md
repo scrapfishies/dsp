@@ -36,8 +36,20 @@
 #### Lessons: 
 - [ ] [Think Stats](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
 
-#### Assessements: 
-- [ ] [Statistics Exercises (9/21)](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
+#### Assessements: [Statistics Exercises (9/21)](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
+- [x] Ch 2 - Ex 4
+- [x] Ch 3 - Ex 1
+- [ ] Ch 4 - Ex 2
+- [ ] Ch 5 - Ex 1
+- [ ] Bayesian
+- [ ] Bayesian & Frequentist Comparison
+
+**Optional Stats Exercises**
+- [ ] Ch 7 - Ex 1
+- [ ] Ch 8 - Ex 2
+- [ ] Ch 6 - Ex 1
+- [ ] Ch 8 - Ex 3
+- [ ] Ch 9 - Ex 2 
 
 ___
 # Other To-Do's Before Bootcamp :clipboard:
