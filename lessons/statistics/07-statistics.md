@@ -86,7 +86,31 @@ Bayes' Theorem is an important tool in understanding what we really know, given 
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+#### Resources for Bayes' Theorem: 
+* [*Think Bayes: Bayesian Statistics Made Simple* by A. Downey](http://www.greenteapress.com/thinkbayes/html/index.html)
+* [3Blue1Brown YouTube Video](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+
+#### Solution: 
+
+Unconditional Probabilities: 
+* P(ID Twins & twin brother) = P(ID Twins)P(both boys|ID twins) = 1/2 * 1/300 = 1/600
+  * 1/300 = probability of identical twins
+  * 1/2 = probability of being boys (ID twins always same sex)
+* P(Frat Twins & Twin Brothers) = P(Frat Twins)P(both boys|Frat Twins) = 1/4 * 1/125 = 1/500
+  * 1/125 = probability of fraternal twins
+  * 1/4 = probability both boys: 
+      * 1/4 = 2 boys
+      * 1/4 = 2 girls
+      * 1/2 = 1 girl & 1 boy
+      
+Bayes' Probability - the conditional probability that Elvis was an identical twin: 
+* P(ID Twin|Twin Bro) = P(ID Twins & Twin Brother) / P(Twin Brother)
+* P(ID Twin|Twin Bro) = (1/2 * 1/300) / ((1/2 * 1/300) + (1/4 * 1/125)) = 5/11
+
+Given that we know Elvis was male, the equation can be more simply written as follows with the same outcome: 
+* (1/300) / (1/300 + (1/2 * 1/125)) = 5/11
+
+--->> **P(ID Twin|Twin Bro) = 5/11 or ~45%**
 
 ---
 
@@ -94,6 +118,27 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 How do frequentist and Bayesian statistics compare?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
+The core of Bayes' theorm is about updating our beliefs when new evidence becomes available. Past knowledge is encoded into a statistical device known as a prior, and this prior is combined with current experiment data to make a conclusion about the test at hand. Thus, it is best used *many* times: the more evidence there is, the more accurately whatever result you get will reflect the state of things. 
+
+A frequentist method makes predictions on the underlying truths of the experiment using only data from the current experiment. 
+
+Frequentist and Bayesian approaches answer different questions. A frequentist approach only considers the null hypothesis, without reference to the alternative hypothesis - it only tell us that the null hypothesis is or isn't a good explanation of the data. A Bayesian approach informs whether the null is a better explanation of the observations than the alternative. 
+
+Bayesian Statistics: 
+* use probabilities for both hypotheses and data
+* depend on the prior and likelihood of observed data (can be subjective)
+* requires one to know or construct a prior probability (before evidence/hypothesis)
+
+Frequentist Statistics: 
+* do not assign probability to hypotheses (no prior or posterior)
+* depend on likelihood for both observed and unobserved data
+* is not influenced by new evidience 
+
+Reference: 
+* [Bayesian vs. Frequentist Approach - 365DataScience.com]()https://365datascience.com/bayesian-vs-frequentist-approach/
+* [Comparison of frequentist and Bayesian inference](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf)
+* [Frequentist and Bayesian Approaches in Statistics](https://www.probabilisticworld.com/frequentist-bayesian-approaches-inferential-statistics/#:~:text=Frequentist%20inference%20is%20based%20on,in%20definitions%203%20and%204.&text=In%20contrast%2C%20Bayesians%20view%20probabilities,in%20any%20event%20or%20hypothesis.)
+* [Bayesian vs. Frequentist A/B Testing: What's the Difference?](https://cxl.com/blog/bayesian-frequentist-ab-testing/)
 
 ---
 
