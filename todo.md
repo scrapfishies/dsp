@@ -41,8 +41,8 @@
 - [x] Ch 3 - Ex 1
 - [x] Ch 4 - Ex 2
 - [x] Ch 5 - Ex 1
-- [ ] Bayesian
-- [ ] Bayesian & Frequentist Comparison
+- [x] Bayesian
+- [x] Bayesian & Frequentist Comparison
 
 **Optional Stats Exercises**
 - [ ] Ch 7 - Ex 1
