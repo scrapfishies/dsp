@@ -117,7 +117,7 @@ Given that we know Elvis was male, the equation can be more simply written as fo
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+#### Answer
 The core of Bayes' theorm is about updating our beliefs when new evidence becomes available. Past knowledge is encoded into a statistical device known as a prior, and this prior is combined with current experiment data to make a conclusion about the test at hand. Thus, it is best used *many* times: the more evidence there is, the more accurately whatever result you get will reflect the state of things. 
 
 A frequentist method makes predictions on the underlying truths of the experiment using only data from the current experiment. 
