@@ -22,3 +22,5 @@ Low:  0.48963902786483265
 High:  0.8317337108107857
 Percent in range:  0.3420946829459531
 ```
+
+[Link to chapter code and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap05ex.ipynb)
