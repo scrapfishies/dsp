@@ -5,3 +5,6 @@
 >> Pregnancy Lengths: The first born children were, on average, in the womb longer than subsequent children. The Cohen's d statistic for pregnancy lengths was 0.029. 
 
 >> The Cohen's d statistic is small in both categories. 
+
+
+[Link to chapter code and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap02ex.py)
