@@ -7,4 +7,4 @@
 >> The Cohen's d statistic is small in both categories. 
 
 
-[Link to chapter code and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap02ex.py)
+[Link to chapter code and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap02ex.ipynb)
