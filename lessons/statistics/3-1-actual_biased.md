@@ -34,3 +34,6 @@ Returns:
 >> Actual Mean: 1.024205155043831
 
 >> Biased Mean: 2.403679100664282
+
+
+[Link to chapter code and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap03ex.ipynb)
