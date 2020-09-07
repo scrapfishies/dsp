@@ -26,3 +26,6 @@ thinkplot.Config(xlabel='Percentile Rank', ylabel='CDF', loc='upper left')
 ```
 
 Plotting the CDF of `rando` confirms what we saw in the PMF plot - a **uniform distribution**. However rather than seeing each random number in `rando` as having an equal probability of occurance (0.001 or 0.1%), we see a straight line where CDF is approximately equal to Percentile Rank indicating that the distribution of *percentile ranks* is uniform. 
+
+
+[Link to chapter code and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap04ex.ipynb)
