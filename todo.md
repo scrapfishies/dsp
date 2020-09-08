@@ -34,7 +34,7 @@
 
 ## Statistics :bar_chart:
 #### Lessons: 
-- [ ] [Think Stats](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
+- [x] [Think Stats](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
 
 #### Assessements: [Statistics Exercises (9/21)](https://github.com/scrapfishies/dsp/tree/master/lessons/statistics)
 - [x] Ch 2 - Ex 4
@@ -45,9 +45,9 @@
 - [x] Bayesian & Frequentist Comparison
 
 **Optional Stats Exercises**
-- [ ] Ch 7 - Ex 1
-- [ ] Ch 8 - Ex 2
-- [ ] Ch 6 - Ex 1
+- [x] Ch 7 - Ex 1
+- [x] Ch 8 - Ex 2
+- [x] Ch 6 - Ex 1
 - [ ] Ch 8 - Ex 3
 - [ ] Ch 9 - Ex 2 
 
