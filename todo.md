@@ -60,4 +60,5 @@ ___
 - [x] [Intro to Git](https://teamtreehouse.com/library/introduction-to-git)
 - [x] [GitHub Basics](https://teamtreehouse.com/library/github-basics)
 - [x] [Algorithms & Data Structures](https://teamtreehouse.com/tracks/algorithms-and-data-structures)
-- [ ] [Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+- [x] [Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
+- [ ] [Beginning JavaScript](https://teamtreehouse.com/tracks/beginning-javascript)
