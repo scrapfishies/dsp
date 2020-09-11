@@ -15,4 +15,5 @@ cdf(Prob(Mean(sample)))
 ```
 
 [Link to chapter and exercises](https://github.com/scrapfishies/ThinkStats2/blob/master/code/chap06ex.ipynb)
+
 [Link to solutions bc errors in chapter notebook](https://github.com/scrapfishies/ThinkStats2/blob/master/solutions/chap06soln.ipynb)
