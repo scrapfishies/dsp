@@ -104,13 +104,15 @@ Unconditional Probabilities:
       * 1/2 = 1 girl & 1 boy
       
 Bayes' Probability - the conditional probability that Elvis was an identical twin: 
-* P(ID Twin|Twin Bro) = P(ID Twins & Twin Brother) / P(Twin Brother)
-* P(ID Twin|Twin Bro) = (1/2 * 1/300) / ((1/2 * 1/300) + (1/4 * 1/125)) = 5/11
-
+```
+P(ID Twin|Twin Bro) = P(ID Twins & Twin Brother) / P(Twin Brother)
+P(ID Twin|Twin Bro) = (1/2 * 1/300) / ((1/2 * 1/300) + (1/4 * 1/125)) = 5/11
+```
 Given that we know Elvis was male, the equation can be more simply written as follows with the same outcome: 
-* (1/300) / (1/300 + (1/2 * 1/125)) = 5/11
-
---->> **P(ID Twin|Twin Bro) = 5/11 or ~45%**
+```
+(1/300) / (1/300 + (1/2 * 1/125)) = 5/11
+``` 
+---> ```**P(ID Twin|Twin Bro) = 5/11 or ~45%**```
 
 ---
 
@@ -118,7 +120,7 @@ Given that we know Elvis was male, the equation can be more simply written as fo
 How do frequentist and Bayesian statistics compare?
 
 #### Answer
-The core of Bayes' theorm is about updating our beliefs when new evidence becomes available. Past knowledge is encoded into a statistical device known as a prior, and this prior is combined with current experiment data to make a conclusion about the test at hand. Thus, it is best used *many* times: the more evidence there is, the more accurately whatever result you get will reflect the state of things. 
+The core of Bayes' theorm is about updating one's beliefs when new evidence becomes available. Past knowledge is encoded into a statistical device known as a prior, and this prior is combined with current experiment data to make a conclusion about the test at hand. Thus, it is best used *many* times: the more evidence there is, the more accurately whatever result you get will reflect the state of things. 
 
 A frequentist method makes predictions on the underlying truths of the experiment using only data from the current experiment. 
 
