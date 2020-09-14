@@ -2,6 +2,6 @@
 
 ---
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+[Chapter Solutions](https://github.com/scrapfishies/ThinkStats2/blob/master/solutions/chap08soln.ipynb)
 
 ---
