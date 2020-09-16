@@ -65,4 +65,4 @@ ___
 
 ### Other Tutorials, lessons, and readings
 - [ ] [Beginning JavaScript Tutorial](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [Kaggle Tutorials - good for review](https://www.kaggle.com/learn/overview)
+- [ ] [Kaggle Tutorials - good for review](https://www.kaggle.com/learn/overview)
