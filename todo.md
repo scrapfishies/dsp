@@ -48,12 +48,12 @@
 - [x] Ch 7 - Ex 1
 - [x] Ch 8 - Ex 2
 - [x] Ch 6 - Ex 1
-- [ ] Ch 8 - Ex 3
-- [ ] Ch 9 - Ex 2 
+- [x] Ch 8 - Ex 3
+- [x] Ch 9 - Ex 2 
 
 ___
-# Other To-Do's Before Bootcamp :clipboard:
-## Treehouse Courses :evergreen_tree::house:
+## Other To-Do's Before Bootcamp :clipboard:
+### Treehouse Courses :evergreen_tree::house:
 - [x] [Beginning Python](https://teamtreehouse.com/tracks/beginning-python)
 - [x] [Intermediate Python](https://teamtreehouse.com/tracks/intermediate-python)
 - [x] [Beginning SQL](https://teamtreehouse.com/tracks/beginning-sql)
@@ -61,4 +61,8 @@ ___
 - [x] [GitHub Basics](https://teamtreehouse.com/library/github-basics)
 - [x] [Algorithms & Data Structures](https://teamtreehouse.com/tracks/algorithms-and-data-structures)
 - [x] [Beginning Data Science](https://teamtreehouse.com/tracks/beginning-data-science)
-- [ ] [Beginning JavaScript](https://teamtreehouse.com/tracks/beginning-javascript)
+- [ ] ~~[Beginning JavaScript](https://teamtreehouse.com/tracks/beginning-javascript)~~
+
+### Other Tutorials, lessons, and readings
+- [ ] [Beginning JavaScript Tutorial](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Kaggle Tutorials - good for review](https://www.kaggle.com/learn/overview)
